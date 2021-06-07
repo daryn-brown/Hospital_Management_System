@@ -1,0 +1,11 @@
+1000212 Patrick Hassery mild 1972 discharged
+1000214 Jessica Grant mild 1946 admitted
+1000217 Hoogland Thompson severe 1968 discharged
+1000219 G Thompson mild 1984 discharged
+1000221 James Grant severe 2001 admitted
+1000223 Justin Stewart mild 2000 admitted
+1000225 Miranda Smith mild 1963 discharged
+1000227 Jonny Test average 1992 admitted
+1000229 Shawn Grant severe 2000 admitted
+1000231 Ben Dover critical 1970 admitted
+1000233 Levi Ackerman none 2001 discharged
